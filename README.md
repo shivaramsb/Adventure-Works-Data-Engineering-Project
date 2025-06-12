@@ -117,14 +117,12 @@ Pull requests welcome! For major changes, open an issue first.
 ---
 
 **📜 License**: MIT  
-**👨‍💻 Author**: [Your Name]  
-**🔗 LinkedIn/GitHub**: [Your Profile Links]  
+**👨‍💻 Author**: Shivaram Babar  
+**🔗 LinkedIn/GitHub**: https://www.linkedin.com/in/shivaram-babar/
 
 ---
 
 **🌟 Star this repo if you found it useful!**  
-**➡️ [Live Demo](#) | [Full Report](#)**  
 
 --- 
 
-This `README.md` provides a **clear, structured overview** of the project for recruiters, teammates, or open-source contributors. Let me know if you'd like any refinements! 🚀
