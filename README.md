@@ -1,6 +1,4 @@
-# **Azure End-to-End Data Engineering Project**  
-
-🚀 **A Comprehensive Data Pipeline from Ingestion to Visualization using Azure Services**  
+# **Azure End-to-End Data Engineering Project**   
 
 ---
 
